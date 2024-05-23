@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Финанс</string>
+    <string name="button_last_week">Узган атнада</string>
+    <string name="button_last_month">Узган ай</string>
+    <string name="button_all_time">Барлык вакыт</string>
+    <string name="income">Керем</string>
+    <string name="expenses">Чыгымнар</string>
+    <string name="button_add">Кушу</string>
+    <string name="button_update">Редакцияләү</string>
+    <string name="button_delete">Бетерү</string>
+    <string name="label_name">Исем</string>
+    <string name="label_amount">Сумма</string>
+</resources>

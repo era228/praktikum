@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Finanzas</string>
+    <string name="button_last_week">La semana pasada</string>
+    <string name="button_last_month">El mes pasado</string>
+    <string name="button_all_time">Todo el tiempo</string>
+    <string name="income">Ingresos</string>
+    <string name="expenses">Gastos</string>
+    <string name="button_add">Agregar</string>
+    <string name="button_update">Editar</string>
+    <string name="button_delete">Eliminar</string>
+    <string name="label_name">Nombre</string>
+    <string name="label_amount">Cantidad</string>
+</resources>

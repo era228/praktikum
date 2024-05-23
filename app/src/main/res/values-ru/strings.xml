@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Финансы</string>
+    <string name="button_last_week">Прошлая неделя</string>
+    <string name="button_last_month">Прошлый месяц</string>
+    <string name="button_all_time">Всё время</string>
+    <string name="income">Доход</string>
+    <string name="expenses">Расходы</string>
+    <string name="button_add">Добавить</string>
+    <string name="button_update">Изменить</string>
+    <string name="button_delete">Удалить</string>
+    <string name="label_name">Имя</string>
+    <string name="label_amount">Сумма</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Finances</string>
+    <string name="button_last_week">Last week</string>
+    <string name="button_last_month">Last month</string>
+    <string name="button_all_time">All time</string>
+    <string name="income">Income</string>
+    <string name="expenses">Expenses</string>
+    <string name="button_add">Add</string>
+    <string name="button_update">Update</string>
+    <string name="button_delete">Delete</string>
+    <string name="label_name">Name</string>
+    <string name="label_amount">Amount</string>
+</resources>

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Ֆինանսներ</string>
+    <string name="button_last_week">Անցած շաբաթ</string>
+    <string name="button_last_month">Անցած ամիս</string>
+    <string name="button_all_time">Ամբողջ ժամանակ</string>
+    <string name="income">Եկամուտ</string>
+    <string name="expenses">Ծախսեր</string>
+    <string name="button_add">Ավելացնել</string>
+    <string name="button_update">Խմբագրել</string>
+    <string name="button_delete">Ջնջել</string>
+    <string name="label_name">Անուն</string>
+    <string name="label_amount">Գումար</string>
+</resources>

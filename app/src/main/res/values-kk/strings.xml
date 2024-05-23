@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Қаржы</string>
+    <string name="button_last_week">Өткен аптада</string>
+    <string name="button_last_month">Соңғы ай</string>
+    <string name="button_all_time">Барлық уақытта</string>
+    <string name="income">Кіріс</string>
+    <string name="expenses">Шығындар</string>
+    <string name="button_add">Қосу</string>
+    <string name="button_update">Өңдеу</string>
+    <string name="button_delete">Жою</string>
+    <string name="label_name">Аты</string>
+    <string name="label_amount">Сома</string>
+</resources>
